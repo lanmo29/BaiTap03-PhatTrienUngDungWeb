@@ -11,4 +11,4 @@ Cài đặt Docker
 
 Đã Tạo Xong DOCKER-COMPOSE.YML (TẤT CẢ DỊCH VỤ)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3596763-68ad-4aa4-bf9d-68e6847956de" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1efa0ffd-e7cd-49ab-b723-946eb5d7e086" />
