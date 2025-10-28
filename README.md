@@ -8,3 +8,7 @@ Cài Đặt, Cập Nhật và Nâng Cấp Ubuntu , Linux
 Cài đặt Docker 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cea7247-8ab4-4831-b94c-4a7dbac076b5" />
+
+Đã Tạo Xong DOCKER-COMPOSE.YML (TẤT CẢ DỊCH VỤ)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec4afdae-7f3e-4764-b515-f5b1128473c0" />
