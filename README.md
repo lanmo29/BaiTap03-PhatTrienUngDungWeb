@@ -15,4 +15,4 @@ Cài đặt Docker
 
 Kết Quả tạm thời sau khi thực hiện Tạo thư mục html, file index.html và Tạo file html/app.js
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4baffb2a-722c-4b8f-92da-7970b3b63b7d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3451dedc-d867-42ea-b34a-825b1477080d" />
